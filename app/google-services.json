@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460774494963",
+    "firebase_url": "https://ebmacs-chat.firebaseio.com",
+    "project_id": "ebmacs-chat",
+    "storage_bucket": "ebmacs-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460774494963:android:82f07d969e276f52",
+        "android_client_info": {
+          "package_name": "com.mhamza007.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460774494963-bcpisbfnkh8l4gl6r6f1q9jgoem0nhsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFq8ZigmjUcBZUwGIqK2UYLT3rpB3jkG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460774494963-bcpisbfnkh8l4gl6r6f1q9jgoem0nhsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
